@@ -1,0 +1,8 @@
+POST http://localhost:3000/pk/20
+Content-Type: application/json
+
+{
+    "name":"Pawan",
+    "address":"India"
+}
+
